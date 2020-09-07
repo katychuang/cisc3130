@@ -1,0 +1,3 @@
+[submodule "class_examples/project_template"]
+	path = class_examples/project_template
+	url = git@github.com:cisc3130-s20/assignment-template.git
