@@ -10,7 +10,7 @@ public class SelectionSort {
                 if (a[j] < a[min])
                     min = j;
             }
-            swap(values, i, min);
+            swap(i, min);
         }
     }
 }
